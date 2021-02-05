@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=RobotWorld
-comment0.text=\n\ Write\ a\ description\ of\ class\ RobotWorld\ here.\n\ \n\ @Cristian\ Rosero\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
-comment1.params=
-comment1.target=void\ prepareScenario()
-comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RobotWorld.\n\ \n
-comment2.params=
-comment2.target=RobotWorld()
-numComments=3
