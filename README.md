@@ -1,1 +1,1 @@
-# MiaLacu-y-Rosty
+# Laboratorio 1
