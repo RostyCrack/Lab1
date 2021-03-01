@@ -1,2 +1,2 @@
 # Laboratorio 1
-#Por: María Lucía Lacouture y Cristian Rosero
+#Por: María Lucía Lacouture, Cristian Rosero y Samuel Barrera
